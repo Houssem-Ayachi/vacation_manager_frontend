@@ -1,0 +1,6 @@
+What is this project?
+--> This is the react front end for my vacation_manager server.
+
+How to run?
+--> npm install
+--> npm run
